@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I am, Harshwardhan Jadhav  👋
 
 <!--
 **Harshwardhanpjadhav/harshwardhanpjadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I am Harshwardhan Jadhav 👋</h1>
-<h3 align="center">A passionate developer from India</h3>
+A passionate developer from India
 
 - 👨‍💻 All of my projects are available at [harshwardhan.tech](harshwardhan.tech)
 
