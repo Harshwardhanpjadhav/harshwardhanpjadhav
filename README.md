@@ -27,16 +27,12 @@
 
 <h1 align="center">Hi there, I am Harshwardhan Jadhav 👋</h1>
 <h3 align="center">A passionate developer from India</h3>
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshwardhanpjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="harshwardhanpjadhav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshwardhanpjadhav" alt="harshwardhanpjadhav" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available at [harshwardhan.tech](harshwardhan.tech)
+- 🔭 I’m working as Data science project
 - 💬 Ask me about **ML | AI | Data Science**
 - 📫 How to reach me **harshwardhanpj2001@gmail.com**
 - ⚡ Fun fact **I Think I Am Funny**
-- 🔭 I’m working as Data science project<br>
 - 📚 I'm currently learning  AI | ML | Data science<br>
 - 💪 Gym Rat</p>
 
