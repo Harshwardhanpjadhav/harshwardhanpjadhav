@@ -29,10 +29,10 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-- 🔭 I’m working as Data science project
+- 🔭 I’m working as Data Scientist.
 - 💬 Ask me about **ML | AI | Data Science**
 - 📫 How to reach me **harshwardhanpj2001@gmail.com**
-- ⚡ Fun fact **I Think I Am Funny**
+- ⚡ Fun fact **I write code 🤨**
 - 📚 I'm currently learning  AI | ML | Data science<br>
 - 💪 Gym Rat</p>
 
